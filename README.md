@@ -1,6 +1,6 @@
 # Demo
 
-https://logkar-test.web.app/
+https://logkar-web.web.app/
 
 ## Available Scripts
 
